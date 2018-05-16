@@ -2,7 +2,7 @@
 
 Open Courses is an open education project with the goal of sharing knowledge related to the  Computer Engineering and Electronic Engineering fields through an online platform created, managed and populated by IEEE-HKN students all over the world, following the rules defined in the project manifesto. The target of this platform are computer engineering students and Informatics and Electronic enthusiasts that aim at learning something new in a fast, incremental and well-structured way. The project will be developed using well-known open source solutions to reduce the creation and maintenance costs and exploit collaboration potentialities.
 
-## Implementation Details
+## Implementation Details
 
 The solution has been designed to be sustainable and easy to manage, based on open source solutions and modern concepts that allows reducing developing and maintainability costs. The whole solution will be based on two main tools:
 
